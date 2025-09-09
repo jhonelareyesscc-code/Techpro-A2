@@ -1,0 +1,9 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Seatworksix");
+
+        String[] cars = {"Volvo", "BMW", "Ford", "Mazda", "Rusi", "D"};
+        
+        System.out.println(cars.length);
+    }
+}
